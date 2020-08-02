@@ -1,0 +1,195 @@
+01-20-2013,400100,100,Exercise & Fitness,Clarksville,Credit
+02-22-2013,400100,2000,Exercise & Fitness,Clarksville,Credit
+03-07-2013,400212,300,Exercise & Fitness,Long Beach,Cash
+05-11-2013,400104,450,Exercise & Fitness,Clarksville,Cash
+03-15-2013,400212,1374,Outdoor Recreation,Charleston,Credit
+04-08-2013,400327,415,Water Sports,Columbus,Credit
+11-19-2013,400978,421,Team Sports,Petersburg,Credit
+11-09-2013,400743,279,Combat Sports,Reno,Credit
+12-23-2013,400743,123,Jumping,Columbus,Cash
+12-27-2013,400527,500,Water Sports,Columbus,Credit
+07-14-2013,400743,212,Exercise & Fitness,Honolulu,Credit
+09-29-2013,400428,20,Gymnastics,Columbia,Cash
+06-13-2013,400428,234,Exercise & Fitness,Omaha,Credit
+05-21-2013,400675,120,Team Sports,Petersburg,Cash
+02-12-2013,400428,200,Puzzles,Clarksville,Credit
+02-12-2012,400429,201,Exercise & Fitness,Clarksville,Credit
+02-12-2012,400429,202,Exercise & Fitness,Long Beach,Credit
+02-12-2012,400429,203,Exercise & Fitness,Clarksville,Cash
+02-12-2012,400429,204,Exercise & Fitness,Charleston,Cash
+02-12-2012,400429,205,Outdoor Recreation,Columbus,Credit
+02-12-2012,400429,206,Water Sports,Petersburg,Credit
+02-12-2012,400429,207,Team Sports,Reno,Credit
+02-12-2012,400429,208,Combat Sports,Columbus,Credit
+02-12-2012,400429,209,Jumping,Columbus,Cash
+02-12-2012,400429,210,Water Sports,Honolulu,Credit
+02-12-2012,400430,211,Exercise & Fitness,Columbia,Credit
+02-12-2012,400431,212,Gymnastics,Omaha,Cash
+02-12-2012,400431,213,Exercise & Fitness,Petersburg,Credit
+02-12-2012,400431,214,Team Sports,Clarksville,Cash
+02-12-2012,400431,215,Puzzles,Clarksville,Credit
+02-12-2012,400431,216,Exercise & Fitness,Long Beach,Credit
+02-12-2012,400431,217,Exercise & Fitness,Clarksville,Credit
+02-12-2012,400431,218,Exercise & Fitness,Charleston,Cash
+02-12-2012,400431,219,Exercise & Fitness,Columbus,Cash
+02-12-2012,400431,220,Outdoor Recreation,Petersburg,Credit
+02-12-2012,400431,221,Water Sports,Reno,Credit
+02-12-2012,400431,222,Team Sports,Columbus,Credit
+02-12-2012,400431,223,Combat Sports,Columbus,Credit
+02-12-2012,400431,224,Jumping,Honolulu,Cash
+02-12-2012,400431,225,Water Sports,Columbia,Credit
+02-12-2012,400431,226,Exercise & Fitness,Omaha,Credit
+02-12-2012,400431,227,Gymnastics,Petersburg,Cash
+02-12-2012,400431,228,Exercise & Fitness,Clarksville,Credit
+02-12-2012,400431,229,Team Sports,Clarksville,Cash
+02-12-2012,400431,230,Puzzles,Long Beach,Credit
+02-12-2012,400431,231,Team Sports,Clarksville,Credit
+02-12-2012,400431,232,Team Sports,Charleston,Credit
+02-12-2012,400431,233,Exercise & Fitness,Columbus,Cash
+02-12-2012,400431,234,Outdoor Recreation,Petersburg,Cash
+02-12-2012,400431,235,Water Sports,Reno,Credit
+02-12-2012,400431,236,Team Sports,Columbus,Credit
+02-12-2012,400431,237,Combat Sports,Columbus,Credit
+02-12-2012,400431,238,Jumping,Honolulu,Credit
+02-12-2012,400431,239,Water Sports,Columbia,Cash
+02-12-2012,400431,240,Exercise & Fitness,Omaha,Credit
+02-12-2012,400431,241,Gymnastics,Petersburg,Credit
+02-12-2012,400431,242,Exercise & Fitness,Clarksville,Cash
+02-12-2012,400431,243,Team Sports,Clarksville,Credit
+02-12-2012,400431,244,Puzzles,Long Beach,Cash
+02-12-2012,400431,245,Exercise & Fitness,Clarksville,Credit
+02-12-2012,400431,246,Exercise & Fitness,Charleston,Credit
+02-12-2012,400431,247,Exercise & Fitness,Columbus,Credit
+02-12-2012,400431,248,Exercise & Fitness,Petersburg,Cash
+02-12-2013,400431,249,Outdoor Recreation,Reno,Credit
+02-12-2013,400431,250,Water Sports,Columbus,Cash
+02-12-2013,400431,251,Team Sports,Columbus,Credit
+02-12-2013,400431,252,Combat Sports,Honolulu,Credit
+02-12-2013,400431,253,Jumping,Columbia,Credit
+02-12-2013,400431,254,Water Sports,Omaha,Cash
+02-12-2013,400431,255,Exercise & Fitness,Petersburg,Cash
+02-12-2013,400431,256,Gymnastics,Clarksville,Credit
+02-12-2013,400431,257,Exercise & Fitness,Clarksville,Credit
+02-12-2013,400431,258,Team Sports,Long Beach,Credit
+02-12-2013,400431,259,Puzzles,Clarksville,Credit
+02-12-2013,400431,260,Team Sports,Charleston,Cash
+02-12-2013,400431,261,Team Sports,Columbus,Credit
+02-12-2013,400431,262,Exercise & Fitness,Petersburg,Credit
+02-12-2013,400431,263,Outdoor Recreation,Reno,Cash
+02-12-2013,400431,264,Water Sports,Columbus,Credit
+02-12-2013,400431,265,Team Sports,Columbus,Cash
+02-12-2013,400431,266,Combat Sports,Honolulu,Credit
+02-12-2012,400431,267,Jumping,Columbia,Credit
+02-12-2012,400431,268,Water Sports,Omaha,Credit
+02-12-2012,400431,269,Exercise & Fitness,Petersburg,Cash
+02-12-2012,400431,270,Gymnastics,Clarksville,Cash
+02-12-2012,400431,271,Exercise & Fitness,Clarksville,Credit
+02-12-2012,400431,272,Team Sports,Long Beach,Credit
+02-12-2012,400431,273,Puzzles,Clarksville,Credit
+02-12-2012,400431,274,Exercise & Fitness,Charleston,Credit
+02-12-2012,400431,275,Exercise & Fitness,Columbus,Cash
+02-12-2012,400431,276,Exercise & Fitness,Petersburg,Credit
+02-12-2012,400431,277,Exercise & Fitness,Reno,Credit
+02-12-2012,400432,278,Outdoor Recreation,Columbus,Credit
+02-12-2012,400433,279,Water Sports,Columbus,Cash
+02-12-2012,400434,280,Team Sports,Honolulu,Credit
+02-12-2012,400435,281,Combat Sports,Columbia,Cash
+02-12-2012,400436,282,Jumping,Omaha,Credit
+02-12-2011,400437,283,Water Sports,Petersburg,Credit
+02-12-2011,400437,284,Exercise & Fitness,Clarksville,Credit
+02-12-2011,400437,285,Gymnastics,Clarksville,Cash
+02-12-2011,400437,286,Exercise & Fitness,Long Beach,Cash
+02-12-2011,400437,287,Team Sports,Clarksville,Credit
+02-12-2011,400437,288,Puzzles,Charleston,Credit
+02-12-2011,400437,289,Team Sports,Columbus,Credit
+02-12-2011,400437,290,Team Sports,Petersburg,Credit
+02-12-2011,400437,291,Exercise & Fitness,Reno,Cash
+02-12-2011,400437,292,Outdoor Recreation,Columbus,Credit
+02-12-2011,400437,293,Water Sports,Columbus,Credit
+02-12-2011,400437,294,Team Sports,Honolulu,Cash
+02-12-2011,400437,295,Combat Sports,Columbia,Credit
+02-12-2011,400437,296,Jumping,Omaha,Cash
+02-12-2011,400437,297,Water Sports,Petersburg,Credit
+02-12-2011,400438,298,Exercise & Fitness,Columbus,Credit
+02-12-2011,400439,299,Gymnastics,Clarksville,Credit
+02-12-2011,400440,300,Exercise & Fitness,Clarksville,Cash
+02-12-2011,400441,301,Team Sports,Long Beach,Cash
+02-12-2011,400442,302,Puzzles,Clarksville,Credit
+02-12-2011,400443,303,Exercise & Fitness,Charleston,Credit
+02-12-2011,400444,304,Exercise & Fitness,Columbus,Credit
+02-12-2011,400445,305,Exercise & Fitness,Petersburg,Credit
+02-12-2011,400445,306,Exercise & Fitness,Reno,Cash
+02-12-2011,400445,307,Outdoor Recreation,Columbus,Credit
+02-12-2011,400445,308,Water Sports,Columbus,Credit
+02-12-2011,400445,309,Team Sports,Honolulu,Credit
+02-12-2011,400445,310,Combat Sports,Columbia,Cash
+02-12-2011,400445,311,Jumping,Omaha,Credit
+02-12-2011,400445,312,Water Sports,Petersburg,Cash
+02-12-2011,400445,313,Exercise & Fitness,Columbus,Credit
+02-12-2011,400445,314,Gymnastics,Columbus,Credit
+02-12-2011,400445,315,Exercise & Fitness,Columbus,Credit
+02-12-2011,400445,316,Team Sports,Columbus,Cash
+02-12-2011,400445,317,Puzzles,Columbus,Cash
+02-12-2011,400445,318,Team Sports,Clarksville,Credit
+02-12-2011,400445,319,Team Sports,Clarksville,Credit
+02-12-2011,400445,320,Exercise & Fitness,Long Beach,Credit
+02-12-2011,400445,321,Outdoor Recreation,Clarksville,Credit
+02-12-2011,400445,322,Water Sports,Charleston,Cash
+02-12-2011,400445,323,Team Sports,Columbus,Credit
+02-12-2011,400445,324,Combat Sports,Petersburg,Credit
+02-12-2010,400445,325,Jumping,Reno,Cash
+02-12-2010,400445,326,Water Sports,Columbus,Credit
+02-12-2010,400445,327,Exercise & Fitness,Columbus,Cash
+02-12-2010,400445,328,Gymnastics,Honolulu,Credit
+02-12-2010,400445,329,Exercise & Fitness,Columbia,Credit
+02-12-2010,400445,330,Team Sports,Omaha,Credit
+02-12-2010,400445,331,Puzzles,Petersburg,Cash
+02-12-2010,400445,332,Exercise & Fitness,Columbus,Cash
+02-12-2010,400445,333,Exercise & Fitness,Columbus,Credit
+02-12-2010,400445,334,Exercise & Fitness,Clarksville,Credit
+02-12-2010,400445,335,Exercise & Fitness,Clarksville,Credit
+02-12-2010,400445,336,Outdoor Recreation,Long Beach,Credit
+02-12-2010,400445,337,Water Sports,Clarksville,Cash
+02-12-2010,400445,338,Team Sports,Charleston,Credit
+02-12-2010,400445,339,Combat Sports,Columbus,Credit
+02-12-2010,400445,340,Jumping,Petersburg,Credit
+02-12-2010,400445,341,Water Sports,Reno,Cash
+02-12-2010,400445,342,Exercise & Fitness,Columbus,Credit
+02-12-2010,400445,343,Gymnastics,Columbus,Cash
+02-12-2010,400445,344,Exercise & Fitness,Honolulu,Credit
+02-12-2010,400445,345,Team Sports,Columbia,Credit
+02-12-2010,400445,346,Puzzles,Omaha,Credit
+02-12-2010,400445,347,Team Sports,Petersburg,Cash
+02-12-2010,400445,348,Team Sports,Columbus,Cash
+02-12-2010,400445,349,Exercise & Fitness,Columbus,Credit
+02-12-2010,400445,350,Outdoor Recreation,Columbus,Credit
+02-12-2010,400445,351,Water Sports,Columbus,Credit
+02-12-2010,400445,352,Team Sports,Clarksville,Credit
+02-12-2010,400445,353,Combat Sports,Clarksville,Cash
+02-12-2010,400445,354,Jumping,Long Beach,Credit
+02-12-2010,400445,355,Water Sports,Clarksville,Credit
+02-12-2010,400445,356,Exercise & Fitness,Charleston,Cash
+02-12-2010,400445,357,Gymnastics,Columbus,Credit
+02-12-2010,400445,358,Exercise & Fitness,Petersburg,Cash
+02-12-2010,400445,359,Team Sports,Reno,Credit
+02-12-2010,400445,360,Puzzles,Columbus,Credit
+02-12-2010,400445,361,Exercise & Fitness,Columbus,Credit
+02-12-2010,400445,362,Exercise & Fitness,Honolulu,Cash
+02-12-2010,400445,363,Exercise & Fitness,Columbia,Cash
+02-12-2010,400445,364,Exercise & Fitness,Omaha,Credit
+02-12-2010,400445,365,Outdoor Recreation,Petersburg,Credit
+02-12-2010,400445,366,Water Sports,Clarksville,Credit
+02-12-2010,400445,367,Team Sports,Clarksville,Credit
+02-12-2010,400446,368,Combat Sports,Long Beach,Cash
+02-12-2010,400447,369,Jumping,Clarksville,Credit
+02-12-2010,400448,370,Water Sports,Charleston,Credit
+02-12-2010,400449,371,Exercise & Fitness,Columbus,Credit
+02-12-2010,400450,372,Gymnastics,Petersburg,Cash
+02-12-2010,400451,373,Exercise & Fitness,Reno,Credit
+02-12-2010,400452,374,Team Sports,Columbus,Cash
+02-12-2010,400453,375,Puzzles,Columbus,Credit
+02-12-2010,400454,376,Team Sports,Honolulu,Credit
+02-12-2010,400455,377,Team Sports,Columbia,Credit
+02-12-2010,400456,378,Water Sports,Omaha,Cash
+02-12-2010,400457,379,Water Sports,Petersburg,Cash
+02-12-2010,400457,380,Water Sports,Long Beach,Credit
